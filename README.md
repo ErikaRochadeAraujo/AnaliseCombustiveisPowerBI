@@ -72,6 +72,6 @@ Observei que em 2021 o fator fortemente apresentado, com estes dados, foi o Barr
 
 É necessário falar também que os dados coletados nesses 10 anos nem sempre retrata a realidade quando observamos a média em determinados locais onde sabemos (por vivência) que há um valor maior do preço do combustível do que em outros locais e isso não ficou expresso nos dados.
 
-Para ver mais sobre esse estudo clique aqui no [link](https://github.com/erikauerj/analises/tree/main/Analises-PowerBI/AnaliseCombustivel).
+
 
 
